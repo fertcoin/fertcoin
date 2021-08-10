@@ -1,0 +1,6 @@
+usr/local/bin/fertcoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/fertcoin-qt.desktop usr/share/applications
+debian/fertcoin-qt.protocol usr/share/kde4/services/

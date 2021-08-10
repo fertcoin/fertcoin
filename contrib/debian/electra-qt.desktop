@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=fertcoin
+Comment=fertcoin P2P Cryptocurrency
+Comment[fr]=fertcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=fertcoin, eşten eşe kriptografik sanal para birimi
+Exec=fertcoin-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/fertcoin;
+Categories=Office;Finance;

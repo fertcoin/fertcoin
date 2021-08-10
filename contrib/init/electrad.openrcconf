@@ -1,0 +1,26 @@
+# /etc/conf.d/fertcoind: config file for /etc/init.d/fertcoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/fertcoin/fertcoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/fertcoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/fertcoind.pid"
+
+# Where to write fertcoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/fertcoind"
+
+# User and group to own fertcoind process
+#BITCOIND_USER="fertcoin"
+#BITCOIND_GROUP="fertcoin"
+
+# Path to fertcoind executable
+#BITCOIND_BIN="/usr/bin/fertcoind"
+
+# Nice value to run fertcoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
