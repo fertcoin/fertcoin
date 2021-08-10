@@ -1,7 +1,7 @@
 # FERT
-
- 
-
+<center>
+ <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6QXk096w/bitcoin.png' border='0' alt='bitcoin'/></a>
+</center>
 # What is FERT?
 fertcoin is a Blockchain using the highly-secure and power-efficient NIST5 algorithm. Combining limited Proof-of-Work, fertcoin coin (fertcoin) is unique in its distribution. 
 
